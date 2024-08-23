@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gabriellycruzz/gabriellycruzz/blob/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Passionate about technology in general, <strong>I'm a Computer Science student</strong>. Currently, I work as an advanced-level graphic designer and an intermediate-level web developer.</p>&nbsp;
+<p align="center">Student of Computer Science and Systems Analysis and Development, with a strong interest in Data Analysis and Business Intelligence (BI).</p>&nbsp;
 
 ## My Skills
 
