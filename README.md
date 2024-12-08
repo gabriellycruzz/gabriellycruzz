@@ -56,13 +56,4 @@
   </a>
   <a href="mailto: gabrielly.zurc21@hotmail.com.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabriellycruzz/gabriellycruzz/output/snake.svg" alt="Snake animation" />
-
-###
