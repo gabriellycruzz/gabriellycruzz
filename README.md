@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student of Computer Science and Systems Analysis and Development, with a strong interest in Data Analysis and Business Intelligence (BI).</p>
+<p align="left">Software Engineer. Passionate about dogs, Valorant, and technology..</p>
 
 ###
 
