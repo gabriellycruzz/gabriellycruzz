@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer. Passionate about dogs, Valorant, and technology..</p>
+<p align="left">Data Analyst. Passionate about dogs, Valorant, and technology.</p>
 
 ###
 
